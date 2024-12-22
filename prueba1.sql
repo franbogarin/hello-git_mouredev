@@ -8,3 +8,4 @@ SELECT
 	DATE_DIFF('day', start_date, end_date) AS days,
 	NOW() AS triggered_time
 FROM default.countries c 
+WHERE start_date = '2024-01-01'
