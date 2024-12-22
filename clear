@@ -1,0 +1,205 @@
+*   [33m05a032b3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m merging changes into my main branch
+[31m|[m[32m\[m  
+[31m|[m *   [33mb1450313[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Merge branch 'main' into main
+[31m|[m [33m|[m[34m\[m  
+[31m|[m [33m|[m *   [33ma4c758af[m Merge pull request #3103 from CHARLIE-rb/main
+[31m|[m [33m|[m [35m|[m[36m\[m  
+[31m|[m [33m|[m [35m|[m *   [33m850e8cb1[m Merge branch 'main' into main
+[31m|[m [33m|[m [35m|[m [1;31m|[m[35m\[m  
+[31m|[m [33m|[m [35m|[m [1;31m|[m[35m/[m  
+[31m|[m [33m|[m [35m|[m[35m/[m[1;31m|[m   
+[31m|[m [33m|[m * [1;31m|[m   [33m23a1d121[m Merge pull request #3102 from johnortizh/main
+[31m|[m [33m|[m [1;33m|[m[1;34m\[m [1;31m\[m  
+[31m|[m [33m|[m [1;33m|[m * [1;31m\[m   [33mfc575bb9[m Merge branch 'main' into main
+[31m|[m [33m|[m [1;33m|[m [1;35m|[m[1;33m\[m [1;31m\[m  
+[31m|[m [33m|[m [1;33m|[m [1;35m|[m[1;33m/[m [1;31m/[m  
+[31m|[m [33m|[m [1;33m|[m[1;33m/[m[1;35m|[m [1;31m|[m   
+[31m|[m [33m|[m * [1;35m|[m [1;31m|[m   [33m3bbc278c[m Merge pull request #3101 from victorpez-hub/main
+[31m|[m [33m|[m [31m|[m[32m\[m [1;35m\[m [1;31m\[m  
+[31m|[m [33m|[m [31m|[m * [1;35m|[m [1;31m|[m [33m992c6fdc[m cambio el nombre
+[31m|[m [33m|[m [31m|[m * [1;35m|[m [1;31m|[m [33mf30ed06c[m Añado mi nombre al hello.md
+[31m|[m [33m|[m [31m|[m[31m/[m [1;35m/[m [1;31m/[m  
+[31m|[m [33m|[m [31m|[m * [1;31m/[m [33m0787b009[m Agregando mi usuario al repositorio de prueba del curso de Git
+[31m|[m [33m|[m [31m|[m[31m/[m [1;31m/[m  
+[31m|[m [33m|[m [31m|[m *   [33m897579f4[m problema solucionado
+[31m|[m [33m|[m [31m|[m [33m|[m[34m\[m  
+[31m|[m [33m|[m [31m|[m [33m|[m * [33m23527331[m Update ficheroPrueba.txt
+[31m|[m [33m|[m [31m|[m * [34m|[m [33md43fcaf7[m TXT editado desde consola
+[31m|[m [33m|[m [31m|[m [34m|[m[34m/[m  
+[31m|[m [33m|[m [31m|[m * [33mb407a4ec[m Update ficheroPrueba.txt
+[31m|[m [33m|[m [31m|[m * [33mfffe03ad[m Añadido mi nombre de usuario
+[31m|[m [33m|[m [31m|[m * [33m1642eaa3[m Prueba fork
+[31m|[m [33m|[m [31m|[m[31m/[m  
+* [33m|[m [31m/[m [33md9b3d6b5[m añadimos prueba archivo sql de Dbeaver
+[33m|[m[33m/[m [31m/[m  
+* [31m|[m [33m40cfc23e[m modificado primer adicción por error formato
+* [31m|[m [33m4d94f3ce[m añadiendo mi usuario al archivo
+[31m|[m[31m/[m  
+*   [33m66e9150b[m Merge pull request #3099 from ElMaxi785/main
+[35m|[m[36m\[m  
+[35m|[m *   [33mc90016b5[m Merge branch 'main' into main
+[35m|[m [1;31m|[m[35m\[m  
+[35m|[m [1;31m|[m[35m/[m  
+[35m|[m[35m/[m[1;31m|[m   
+* [1;31m|[m   [33mf99d7f2e[m Merge pull request #3098 from PalmaLuis/main
+[1;33m|[m[1;34m\[m [1;31m\[m  
+[1;33m|[m * [1;31m\[m   [33mf7702683[m Merge branch 'main' into main
+[1;33m|[m [1;35m|[m[1;33m\[m [1;31m\[m  
+[1;33m|[m [1;35m|[m[1;33m/[m [1;31m/[m  
+[1;33m|[m[1;33m/[m[1;35m|[m [1;31m|[m   
+* [1;35m|[m [1;31m|[m   [33m666238e8[m Merge pull request #3097 from EmmanuelPP/main
+[31m|[m[32m\[m [1;35m\[m [1;31m\[m  
+[31m|[m * [1;35m\[m [1;31m\[m   [33m69a69dc8[m Merge branch 'main' into main
+[31m|[m [33m|[m[31m\[m [1;35m\[m [1;31m\[m  
+[31m|[m [33m|[m[31m/[m [1;35m/[m [1;31m/[m  
+[31m|[m[31m/[m[33m|[m [1;35m|[m [1;31m|[m   
+* [33m|[m [1;35m|[m [1;31m|[m   [33mf7cbff8c[m Merge pull request #3096 from mferhernandez/main
+[35m|[m[36m\[m [33m\[m [1;35m\[m [1;31m\[m  
+[35m|[m * [33m\[m [1;35m\[m [1;31m\[m   [33m53fe05b7[m Merge branch 'main' into main
+[35m|[m [1;31m|[m[35m\[m [33m\[m [1;35m\[m [1;31m\[m  
+[35m|[m [1;31m|[m[35m/[m [33m/[m [1;35m/[m [1;31m/[m  
+[35m|[m[35m/[m[1;31m|[m [33m|[m [1;35m|[m [1;31m|[m   
+* [1;31m|[m [33m|[m [1;35m|[m [1;31m|[m   [33m31f82ebc[m Merge pull request #3094 from miguelangellacruz/main
+[1;33m|[m[1;34m\[m [1;31m\[m [33m\[m [1;35m\[m [1;31m\[m  
+[1;33m|[m * [1;31m|[m [33m|[m [1;35m|[m [1;31m|[m [33mfb46d1b9[m Participante del curso
+[1;33m|[m[1;33m/[m [1;31m/[m [33m/[m [1;35m/[m [1;31m/[m  
+[1;33m|[m * [33m/[m [1;35m/[m [1;31m/[m [33md7975331[m Agrego mi usuario al super repo de Moure
+[1;33m|[m[1;33m/[m [33m/[m [1;35m/[m [1;31m/[m  
+[1;33m|[m * [1;35m/[m [1;31m/[m [33maee139d4[m Actualizando hello.md
+[1;33m|[m[1;33m/[m [1;35m/[m [1;31m/[m  
+[1;33m|[m * [1;31m/[m [33m64eb08a7[m docs: agregue mi nombre al hello md
+[1;33m|[m[1;33m/[m [1;31m/[m  
+[1;33m|[m * [33mad57f250[m Usuario ElMaxi785 agregado.
+[1;33m|[m[1;33m/[m  
+*   [33m8a748e95[m Merge pull request #3093 from AndreCuenca17/main
+[1;35m|[m[1;36m\[m  
+[1;35m|[m *   [33m889bb9e8[m Merge branch 'main' into main
+[1;35m|[m [31m|[m[1;35m\[m  
+[1;35m|[m [31m|[m[1;35m/[m  
+[1;35m|[m[1;35m/[m[31m|[m   
+* [31m|[m   [33md281067a[m Merge pull request #3092 from markitos177/main
+[33m|[m[34m\[m [31m\[m  
+[33m|[m * [31m\[m   [33m0f11b858[m Merge branch 'main' into main
+[33m|[m [35m|[m[33m\[m [31m\[m  
+[33m|[m [35m|[m[33m/[m [31m/[m  
+[33m|[m[33m/[m[35m|[m [31m|[m   
+[33m|[m * [31m|[m [33m0e8c2667[m Agregué mi nombre en hello.md
+[33m|[m [36m|[m *   [33mb3478dcf[m Merge branch 'main' into main
+[33m|[m [36m|[m [1;31m|[m[33m\[m  
+[33m|[m [36m|[m[33m_[m[1;31m|[m[33m/[m  
+[33m|[m[33m/[m[36m|[m [1;31m|[m   
+* [36m|[m [1;31m|[m   [33m450f2767[m Merge pull request #3091 from tomas-ib/main
+[1;33m|[m[1;34m\[m [36m\[m [1;31m\[m  
+[1;33m|[m * [36m\[m [1;31m\[m   [33m1da72614[m Merge branch 'main' into main
+[1;33m|[m [1;35m|[m[1;33m\[m [36m\[m [1;31m\[m  
+[1;33m|[m [1;35m|[m[1;33m/[m [36m/[m [1;31m/[m  
+[1;33m|[m[1;33m/[m[1;35m|[m [36m|[m [1;31m|[m   
+* [1;35m|[m [36m|[m [1;31m|[m   [33mf5dbb1ca[m Merge pull request #3090 from MatiRodrigo/main
+[31m|[m[32m\[m [1;35m\[m [36m\[m [1;31m\[m  
+[31m|[m * [1;35m\[m [36m\[m [1;31m\[m   [33m151ccbb7[m Merge branch 'main' into main
+[31m|[m [33m|[m[31m\[m [1;35m\[m [36m\[m [1;31m\[m  
+[31m|[m [33m|[m[31m/[m [1;35m/[m [36m/[m [1;31m/[m  
+[31m|[m[31m/[m[33m|[m [1;35m|[m [36m|[m [1;31m|[m   
+* [33m|[m [1;35m|[m [36m|[m [1;31m|[m   [33mc4eadec2[m Merge pull request #3089 from Bugari05/main
+[35m|[m[36m\[m [33m\[m [1;35m\[m [36m\[m [1;31m\[m  
+[35m|[m * [33m\[m [1;35m\[m [36m\[m [1;31m\[m   [33m0ff1762a[m Merge branch 'main' into main
+[35m|[m [1;31m|[m[35m\[m [33m\[m [1;35m\[m [36m\[m [1;31m\[m  
+[35m|[m [1;31m|[m[35m/[m [33m/[m [1;35m/[m [36m/[m [1;31m/[m  
+[35m|[m[35m/[m[1;31m|[m [33m|[m [1;35m|[m [36m|[m [1;31m|[m   
+* [1;31m|[m [33m|[m [1;35m|[m [36m|[m [1;31m|[m   [33m88d39884[m Merge pull request #3088 from eavnavas10/main
+[1;33m|[m[1;34m\[m [1;31m\[m [33m\[m [1;35m\[m [36m\[m [1;31m\[m  
+[1;33m|[m * [1;31m\[m [33m\[m [1;35m\[m [36m\[m [1;31m\[m   [33m7ca50da2[m Merge branch 'main' into main
+[1;33m|[m [1;35m|[m[1;33m\[m [1;31m\[m [33m\[m [1;35m\[m [36m\[m [1;31m\[m  
+[1;33m|[m [1;35m|[m[1;33m/[m [1;31m/[m [33m/[m [1;35m/[m [36m/[m [1;31m/[m  
+[1;33m|[m[1;33m/[m[1;35m|[m [1;31m|[m [33m|[m [1;35m|[m [36m|[m [1;31m|[m   
+* [1;35m|[m [1;31m|[m [33m|[m [1;35m|[m [36m|[m [1;31m|[m   [33m08921d8d[m Merge pull request #3087 from anjamape1972/main
+[31m|[m[32m\[m [1;35m\[m [1;31m\[m [33m\[m [1;35m\[m [36m\[m [1;31m\[m  
+[31m|[m * [1;35m\[m [1;31m\[m [33m\[m [1;35m\[m [36m\[m [1;31m\[m   [33m6268c713[m Merge branch 'main' into main
+[31m|[m [33m|[m[31m\[m [1;35m\[m [1;31m\[m [33m\[m [1;35m\[m [36m\[m [1;31m\[m  
+[31m|[m [33m|[m[31m/[m [1;35m/[m [1;31m/[m [33m/[m [1;35m/[m [36m/[m [1;31m/[m  
+[31m|[m[31m/[m[33m|[m [1;35m|[m [1;31m|[m [33m|[m [1;35m|[m [36m|[m [1;31m|[m   
+* [33m|[m [1;35m|[m [1;31m|[m [33m|[m [1;35m|[m [36m|[m [1;31m|[m   [33m3a2bb843[m Merge pull request #3086 from juliamachetti/main
+[35m|[m[36m\[m [33m\[m [1;35m\[m [1;31m\[m [33m\[m [1;35m\[m [36m\[m [1;31m\[m  
+[35m|[m * [33m\[m [1;35m\[m [1;31m\[m [33m\[m [1;35m\[m [36m\[m [1;31m\[m   [33mcd2bf37a[m Merge branch 'main' into main
+[35m|[m [1;31m|[m[35m\[m [33m\[m [1;35m\[m [1;31m\[m [33m\[m [1;35m\[m [36m\[m [1;31m\[m  
+[35m|[m [1;31m|[m[35m/[m [33m/[m [1;35m/[m [1;31m/[m [33m/[m [1;35m/[m [36m/[m [1;31m/[m  
+[35m|[m[35m/[m[1;31m|[m [33m|[m [1;35m|[m [1;31m|[m [33m|[m [1;35m|[m [36m|[m [1;31m|[m   
+* [1;31m|[m [33m|[m [1;35m|[m [1;31m|[m [33m|[m [1;35m|[m [36m|[m [1;31m|[m   [33mc8b4d44c[m Merge pull request #3085 from AlejandroDavidSilva/main
+[36m|[m[1;34m\[m [1;31m\[m [33m\[m [1;35m\[m [1;31m\[m [33m\[m [1;35m\[m [36m\[m [1;31m\[m  
+[36m|[m [1;34m|[m[36m_[m[1;31m|[m[36m_[m[33m|[m[36m_[m[1;35m|[m[36m_[m[1;31m|[m[36m_[m[33m|[m[36m_[m[1;35m|[m[36m/[m [1;31m/[m  
+[36m|[m[36m/[m[1;34m|[m [1;31m|[m [33m|[m [1;35m|[m [1;31m|[m [33m|[m [1;35m|[m [1;31m|[m   
+[36m|[m * [1;31m|[m [33m|[m [1;35m|[m [1;31m|[m [33m|[m [1;35m|[m [1;31m|[m   [33m662fc202[m Merge branch 'main' into main
+[36m|[m [1;35m|[m[36m\[m [1;31m\[m [33m\[m [1;35m\[m [1;31m\[m [33m\[m [1;35m\[m [1;31m\[m  
+[36m|[m [1;35m|[m[36m/[m [1;31m/[m [33m/[m [1;35m/[m [1;31m/[m [33m/[m [1;35m/[m [1;31m/[m  
+[36m|[m[36m/[m[1;35m|[m [1;31m|[m [33m|[m [1;35m|[m [1;31m|[m [33m|[m [1;35m|[m [1;31m|[m   
+[36m|[m * [1;31m|[m [33m|[m [1;35m|[m [1;31m|[m [33m|[m [1;35m|[m [1;31m|[m [33ma972e6e0[m Update hello.md
+[36m|[m * [1;31m|[m [33m|[m [1;35m|[m [1;31m|[m [33m|[m [1;35m|[m [1;31m|[m [33m9e8cf8b8[m Delete README - copia.md
+[36m|[m * [1;31m|[m [33m|[m [1;35m|[m [1;31m|[m [33m|[m [1;35m|[m [1;31m|[m [33ma5f16393[m ahora si lo guarde
+[36m|[m * [1;31m|[m [33m|[m [1;35m|[m [1;31m|[m [33m|[m [1;35m|[m [1;31m|[m [33m1349c4b4[m JOTAAGAMES XD
+[36m|[m [1;36m|[m * [33m|[m [1;35m|[m [1;31m|[m [33m|[m [1;35m|[m [1;31m|[m [33m063bfb70[m Borrando backup file
+[36m|[m [1;36m|[m * [33m|[m [1;35m|[m [1;31m|[m [33m|[m [1;35m|[m [1;31m|[m [33m8fbcb558[m adding my name
+[36m|[m [1;36m|[m * [33m|[m [1;35m|[m [1;31m|[m [33m|[m [1;35m|[m [1;31m|[m   [33m4e8ea51e[m Merge branch 'main' of github.com:juliamachetti/hello-git-mouredev
+[36m|[m [1;36m|[m [31m|[m[36m\[m [33m\[m [1;35m\[m [1;31m\[m [33m\[m [1;35m\[m [1;31m\[m  
+[36m|[m [1;36m|[m[36m_[m[31m|[m[36m/[m [33m/[m [1;35m/[m [1;31m/[m [33m/[m [1;35m/[m [1;31m/[m  
+[36m|[m[36m/[m[1;36m|[m [31m|[m [33m|[m [1;35m|[m [1;31m|[m [33m|[m [1;35m|[m [1;31m|[m   
+[36m|[m [1;36m|[m * [33m|[m [1;35m|[m [1;31m|[m [33m|[m [1;35m|[m [1;31m|[m [33mfa193dc4[m eliminar mi nombre
+[36m|[m [1;36m|[m * [33m|[m [1;35m|[m [1;31m|[m [33m|[m [1;35m|[m [1;31m|[m [33m293e5f97[m Añadiendo mi nombre al fichero
+[36m|[m [1;36m|[m[1;36m/[m [33m/[m [1;35m/[m [1;31m/[m [33m/[m [1;35m/[m [1;31m/[m  
+[36m|[m [1;36m|[m * [1;35m/[m [1;31m/[m [33m/[m [1;35m/[m [1;31m/[m [33m4212bc34[m anjamape1972
+[36m|[m [1;36m|[m[36m/[m [1;35m/[m [1;31m/[m [33m/[m [1;35m/[m [1;31m/[m  
+[36m|[m[36m/[m[1;36m|[m [1;35m|[m [1;31m|[m [33m|[m [1;35m|[m [1;31m|[m   
+[36m|[m [1;36m|[m * [1;31m|[m [33m|[m [1;35m|[m [1;31m|[m [33mb49eaab0[m Se añade un fichero para que salude la comunidad
+[36m|[m [1;36m|[m[36m/[m [1;31m/[m [33m/[m [1;35m/[m [1;31m/[m  
+[36m|[m[36m/[m[1;36m|[m [1;31m|[m [33m|[m [1;35m|[m [1;31m|[m   
+[36m|[m [1;36m|[m * [33m|[m [1;35m|[m [1;31m|[m [33ma395b171[m Arego mi usuario aprendiendo Git y GitHub en 2024
+[36m|[m [1;36m|[m[36m/[m [33m/[m [1;35m/[m [1;31m/[m  
+[36m|[m[36m/[m[1;36m|[m [33m|[m [1;35m|[m [1;31m|[m   
+[36m|[m [1;36m|[m * [1;35m|[m [1;31m|[m [33ma9f89aa8[m He añadido MatiRodrigo
+[36m|[m [1;36m|[m[36m/[m [1;35m/[m [1;31m/[m  
+[36m|[m[36m/[m[1;36m|[m [1;35m|[m [1;31m|[m   
+[36m|[m [1;36m|[m * [1;31m|[m [33m6d21798c[m Agrego nombre al fork
+[36m|[m [1;36m|[m[36m/[m [1;31m/[m  
+[36m|[m[36m/[m[1;36m|[m [1;31m|[m   
+[36m|[m [1;36m|[m * [33ma2811d13[m Agregando a AndreCuenca17
+[36m|[m [1;36m|[m[36m/[m  
+[36m|[m[36m/[m[1;36m|[m   
+* [1;36m|[m   [33m97e67d86[m Merge pull request #3083 from MSTOG04/main
+[33m|[m[34m\[m [1;36m\[m  
+[33m|[m * [1;36m\[m   [33me8502334[m Merge branch 'main' into main
+[33m|[m [35m|[m[33m\[m [1;36m\[m  
+[33m|[m [35m|[m[33m/[m [1;36m/[m  
+[33m|[m[33m/[m[35m|[m [1;36m|[m   
+* [35m|[m [1;36m|[m   [33m8b20a352[m Merge pull request #3082 from LukasGalicia/main
+[1;31m|[m[1;32m\[m [35m\[m [1;36m\[m  
+[1;31m|[m * [35m\[m [1;36m\[m   [33mf3e448ae[m Merge branch 'main' into main
+[1;31m|[m [1;33m|[m[1;31m\[m [35m\[m [1;36m\[m  
+[1;31m|[m [1;33m|[m[1;31m/[m [35m/[m [1;36m/[m  
+[1;31m|[m[1;31m/[m[1;33m|[m [35m|[m [1;36m|[m   
+* [1;33m|[m [35m|[m [1;36m|[m   [33m36216a1e[m Merge pull request #3081 from ryesquen/main
+[1;35m|[m[1;36m\[m [1;33m\[m [35m\[m [1;36m\[m  
+[1;35m|[m * [1;33m\[m [35m\[m [1;36m\[m   [33m81b2854e[m Merge branch 'main' into main
+[1;35m|[m [31m|[m[1;35m\[m [1;33m\[m [35m\[m [1;36m\[m  
+[1;35m|[m [31m|[m[1;35m/[m [1;33m/[m [35m/[m [1;36m/[m  
+[1;35m|[m[1;35m/[m[31m|[m [1;33m|[m [35m|[m [1;36m|[m   
+* [31m|[m [1;33m|[m [35m|[m [1;36m|[m   [33md07352ba[m Merge pull request #3080 from JulianYul/main
+[33m|[m[34m\[m [31m\[m [1;33m\[m [35m\[m [1;36m\[m  
+[33m|[m * [31m\[m [1;33m\[m [35m\[m [1;36m\[m   [33m7a9f0c2f[m Merge branch 'main' into main
+[33m|[m [35m|[m[33m\[m [31m\[m [1;33m\[m [35m\[m [1;36m\[m  
+[33m|[m [35m|[m[33m/[m [31m/[m [1;33m/[m [35m/[m [1;36m/[m  
+[33m|[m[33m/[m[35m|[m [31m|[m [1;33m|[m [35m|[m [1;36m|[m   
+* [35m|[m [31m|[m [1;33m|[m [35m|[m [1;36m|[m   [33m1873c6cf[m Merge pull request #3079 from AlynDZ/main
+[1;31m|[m[1;32m\[m [35m\[m [31m\[m [1;33m\[m [35m\[m [1;36m\[m  
+[1;31m|[m * [35m\[m [31m\[m [1;33m\[m [35m\[m [1;36m\[m   [33ma5861370[m Merge branch 'main' into main
+[1;31m|[m [1;33m|[m[1;31m\[m [35m\[m [31m\[m [1;33m\[m [35m\[m [1;36m\[m  
+[1;31m|[m [1;33m|[m[1;31m/[m [35m/[m [31m/[m [1;33m/[m [35m/[m [1;36m/[m  
+[1;31m|[m[1;31m/[m[1;33m|[m [35m|[m [31m|[m [1;33m|[m [35m|[m [1;36m|[m   
+* [1;33m|[m [35m|[m [31m|[m [1;33m|[m [35m|[m [1;36m|[m   [33m6edb03e9[m Merge pull request #3078 from noafro21/main
+[1;35m|[m[1;36m\[m [1;33m\[m [35m\[m [31m\[m [1;33m\[m [35m\[m [1;36m\[m  
+[1;35m|[m * [1;33m\[m [35m\[m [31m\[m [1;33m\[m [35m\[m [1;36m\[m   [33mab3898e1[m Merge branch 'main' into main
+[1;35m|[m [31m|[m[1;35m\[m [1;33m\[m [35m\[m [31m\[m [1;33m\[m [35m\[m [1;36m\[m  
+[1;35m|[m [31m|[m[1;35m/[m [1;33m/[m [35m/[m [31m/[m [1;33m/[m [35m/[m [1;36m/[m  
+[1;35m|[m[1;35m/[m[31m|[m [1;33m|[m [35m|[m [31m|[m [1;33m|[m [35m|[m [1;36m|[m   
+* [31m|[m [1;33m|[m [35m|[m [31m|[m [1;33m|[m [35m|[m [1;36m|[m   [33mbab52cd2[m Merge pull request #3077 from JoseDiegoSoriaOrtiz/main
+[1;36m|[m[34m\[m [31m\[m [1;33m\[m [35m\[m [31m\[m [1;33m\[m [35m\[m [1;36m\[m  
+[1;36m|[m [34m|[m[1;36m_[m[31m|[m[1;36m_[m[1;33m|[m[1;36m_[m[35m|[m[1;36m_[m[31m|[m[1;36m_[m[1;33m|[m[1;36m_[m[35m|[m[1;36m/[m  
+[1;36m|[m[1;36m/[m[34m|[m [31m|[m [1;33m|[m [35m|[m [31m|[m [1;33m|[m [35m|[m   
