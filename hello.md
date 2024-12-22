@@ -2688,3 +2688,5 @@
 - johnortizh
 - CHARLIE-rb
 - franbogarin
+- estebanmhp
+- OscarEVazquez
